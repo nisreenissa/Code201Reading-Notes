@@ -9,7 +9,7 @@
 | ----------| ----------------------------------------------------------------------------|
 | Class01| [READ01](https://nisreenissa.github.io/Code201Reading-Notes/Class01)                   |
 | class02 | [READ02](https://nisreenissa.github.io/Code201Reading-Notes/class02) | 
-| class03|  []() | 
+| class03|  [Read03](https://nisreenissa.github.io/Code201Reading-Notes/class03) | 
 | class04 | []() | 
 | class05 | []()|
 | Class06 | []()                   |
