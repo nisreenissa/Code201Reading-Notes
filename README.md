@@ -16,9 +16,9 @@
 | class07 | [READ07](https://nisreenissa.github.io/Code201Reading-Notes/class06) | 
 | class08 | [READ08](https://nisreenissa.github.io/Code201Reading-Notes/class08) | 
 | class09 | [READ09](https://nisreenissa.github.io/Code201Reading-Notes/class09) | 
-| class10 | []() | 
-| class11 | []() | 
-| class12 | []() |     
-| class13 | []() | 
+| class10 | [READ10](https://nisreenissa.github.io/Code201Reading-Notes/class10) | 
+| class11 | [READ11](https://nisreenissa.github.io/Code201Reading-Notes/class11) | 
+| class12 | [READ12](https://nisreenissa.github.io/Code201Reading-Notes/class12) |     
+| class13 | [READ13](https://nisreenissa.github.io/Code201Reading-Notes/class13) | 
 | class14 | []() | 
 | class15 | []() | 
